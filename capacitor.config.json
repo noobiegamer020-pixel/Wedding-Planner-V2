@@ -1,0 +1,21 @@
+{
+ "appId": "com.wedding.planner",
+ "appName": "Wedding Planner",
+ "webDir": "www",
+ "backgroundColor": "#fbf5fb",
+ "plugins": {
+  "SplashScreen": {
+   "launchShowDuration": 1500,
+   "launchAutoHide": true,
+   "backgroundColor": "#ff4f81",
+   "showSpinner": false,
+   "splashFullScreen": true,
+   "splashImmersive": false
+  },
+  "StatusBar": {
+   "style": "DARK",
+   "backgroundColor": "#ff4f81",
+   "overlaysWebView": false
+  }
+ }
+}
